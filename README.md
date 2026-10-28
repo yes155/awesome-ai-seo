@@ -102,3 +102,5 @@ Contributions are welcome! Please open a PR or issue with suggestions.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+* [Awesome GEO & Semantic SEO](https://github.com/yes155/awesome-geo-seo) - Open-source blueprint for machine-readable knowledge graph optimization and LLM citation share by [Farrukh Abdullah](https://farrukh.top/).
